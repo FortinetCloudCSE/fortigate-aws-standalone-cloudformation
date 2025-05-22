@@ -1,13 +1,1 @@
-# Standalone FortiGate in AWS
-
-For a quick start guide on how to use the template in this repo, please reference [**fortigate-aws-standalone-cloudformation**](https://fortinetcloudcse.github.io/fortigate-aws-standalone-cloudformation/). 
-
-For other documentation needs such as FortiOS administration and additional use cases, please reference [**docs.fortinet.com**](https://docs.fortinet.com/). 
-
-## Support
-
-Fortinet-provided scripts in this and other GitHub projects do not fall under the regular Fortinet technical support scope and are not supported by FortiCare Support Services.
-
-For direct issues, please refer to the [**Issues**](https://github.com/FortinetCloudCSE/fortigate-aws-standalone-cloudformation/issues) tab of this GitHub project.
-
-For other questions related to this project, contact [**awssales@fortinet.com**](mailto:awssales@fortinet.com).
+<h1>fortigate-aws-standalone-cloudformation</h1><h3>To view the workshop, please go here: <a href="https://fortinetcloudcse.github.io/fortigate-aws-standalone-cloudformation/">fortigate-aws-standalone-cloudformation</a></h3><hr><h3>For more information on creating these workshops, please go here: <a href="https://fortinetcloudcse.github.io/UserRepo/">FortinetCloudCSE User Repo</a></h3>
